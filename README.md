@@ -2,7 +2,7 @@
 
 A backend API service to create and manage customer orders in a PostgreSQL database. Built with Node.js, Express, and PostgreSQL, this service allows storing order details (including customer metadata) once a payment is completed.
 
-**📖 Table of Contents**
+## **📖 Table of Contents**
 
 Features
 
@@ -20,7 +20,7 @@ Usage
 
 Environment Variables
 
-**✨ Features**
+## **✨ Features**
 Backend Features
 
 RESTful API endpoints for creating orders
@@ -48,7 +48,7 @@ pg - PostgreSQL client for Node.js
 
 dotenv - Environment variable management
 
-**🔧 Prerequisites**
+## **🔧 Prerequisites**
 
 Make sure you have the following installed before setup:
 
